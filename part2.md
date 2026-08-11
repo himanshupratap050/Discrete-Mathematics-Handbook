@@ -233,5 +233,3 @@ Check: 6/gcd(6,2) = 6/2 = 3 ✓ (shortcut formula: order of k in Zₙ = n/gcd(n,
 **End of Part 2.** Functions (complete, with counting derivations) + Posets & Lattices (complete, with Hasse diagram method) + Monoids & Groups (complete hierarchy + Lagrange's theorem) — all at GATE depth.
 
 Next file (Part 3): **Graph Theory + Combinatorics** — heaviest-weightage section in GATE DM, will include lots of graph diagrams, Handshaking lemma, matching/colouring, and the full counting decision-table ("if question says X → think Y").
-
-Jab ready ho, bol dena "Part 3 bana do."
