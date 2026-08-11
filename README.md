@@ -405,5 +405,3 @@ This means: "can I reach j from i by passing through k?"
 **End of Part 1.** This covers Logic (complete) + Sets (complete) + Relations (complete) at GATE depth.
 
 Next file (Part 2) will cover: **Functions, Posets & Lattices, Monoids & Groups** — same teaching structure, with Hasse diagram problems and group-theory counterexample tables.
-
-Bata jab ready ho Part 2 ke liye, ya agar is Part 1 me kahin aur depth/examples chahiye to bhi bata sakta hai.
